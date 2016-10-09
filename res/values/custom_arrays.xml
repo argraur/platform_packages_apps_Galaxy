@@ -762,4 +762,15 @@
         <item>5</item>
     </string-array>
 
+    <!-- Statusbar Logo Position -->
+    <string-array name="status_bar_logo_position_entries" translatable="false">
+        <item>@string/status_bar_logo_position_left</item>
+        <item>@string/status_bar_logo_position_right</item>
+    </string-array>
+
+    <string-array name="status_bar_logo_position_values" translatable="false">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
 </resources>

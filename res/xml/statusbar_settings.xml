@@ -29,6 +29,12 @@
         android:summary="@string/carrier_label_settings_summary" />
 
     <PreferenceScreen
+        android:fragment="com.cosmic.settings.fragments.CosmicLogoSettings"
+        android:key="cosmic_logo_settings"
+        android:title="@string/cosmic_logo_settings_title"
+        android:summary="@string/cosmic_logo_settings_summary" />
+
+    <PreferenceScreen
         android:fragment="com.cosmic.settings.fragments.ClockSettings"
         android:key="cosmic_clock_settings"
         android:title="@string/clock_settings_title"

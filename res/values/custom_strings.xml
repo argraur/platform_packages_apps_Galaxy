@@ -559,6 +559,17 @@
     <!-- Bluetooth status -->
     <string name="bluetooth_battery_title">Show Bluetooth battery status</string>
     <string name="bluetooth_battery_summary">Show battery status for the currently connected bluetooth device, if available.</string>
+    <!-- Statusbar Cosmic-OS logo -->
+    <string name="cosmic_logo_settings_title">Statusbar Logo</string>
+    <string name="cosmic_logo_settings_summary">Cosmic-OS logo settings</string>
+    <string name="status_bar_logo_category_title">Statusbar logo</string>
+    <string name="status_bar_cosmic_logo_title">Cosmic-OS logo</string>
+    <string name="status_bar_cosmic_logo_summary">Enable to show Cosmic-OS logo on the statusbar</string>
+    <string name="status_bar_cosmic_logo_color">Cosmic-OS logo color</string>
+    <string name="status_bar_cosmic_logo_position">Logo location</string>
+    <string name="status_bar_cosmic_logo_position_summary">Choose which side to display the logo on, left or right</string>
+    <string name="status_bar_logo_position_right">Right</string>
+    <string name="status_bar_logo_position_left">Left</string>
 
     <!-- Hardware Keys fragment -->
     <string name="hwkeys_settings_title">Hardware Keys</string>
@@ -918,7 +929,5 @@
     <string name="qs_rows_landscape_title">Rows (landscape)</string>
     <string name="qs_columns_title">Columns</string>
     <string name="qs_small_tiles_title">Small QS tiles</string>
-
-
 
 </resources>
